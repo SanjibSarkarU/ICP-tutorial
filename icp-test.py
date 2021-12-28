@@ -3,8 +3,8 @@ def icp(a, b,
         ):
     import cv2
     import numpy
-    import copy
-    import pylab
+    # import copy
+    # import pylab
     import time
     import sys
     import sklearn.neighbors
